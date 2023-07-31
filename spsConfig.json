@@ -1,0 +1,8 @@
+{
+    "factoryid": "2",
+    "realtimetorqueloadfactor": {
+        "nx": "3",
+        "dx": "10",
+        "interval": "30"
+    }
+}
